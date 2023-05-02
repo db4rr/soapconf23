@@ -44,5 +44,11 @@
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
       });
     </script>
+
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm';
+        let config = { startOnLoad: true, flowchart: { useMaxWidth: false, htmlLabels: true } };
+        mermaid.initialize(config);
+    </script>
   </body>
 </html>
