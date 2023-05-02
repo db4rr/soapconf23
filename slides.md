@@ -6,13 +6,13 @@ New slides start after three empty lines.
 
 
 
-# I am another slide
+## I am another slide
 
 I have text
 
 
 
-# I am a slide with a mermaid block
+### I am a slide with a mermaid block
 
 <pre class="mermaid">
 %%{init: {'theme': 'neutral' } }%%
