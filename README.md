@@ -1,7 +1,23 @@
 # Keeping the plates spinning: ContentOps at Dolby
 *Soap Conference 2023 presentation*
 
-This is the outline of our 40 min. talk:
+## Abstract submitted to soap!
+
+### First draft
+
+In the front: Dolby Customer, a massive content web portal integrated with the company sales backend, and a combination of static HTML and standalone PDFs for offline consumption. In the back: GitLab repos with DITA and Markdown, CI publishing pipelines running DITA-OT in docker, and docs-as-code collaboration with SMEs. On top of it all: Analytics to understand how our customers interact with content, and drive development and UX decisions. 
+
+### Edited by GPT as more friendly
+
+Dolby team presents a case study on how they implemented ContentOps (Content Operations) to improve their content management process and to enhance their customers' experience.
+
+They showcase their front-end interface, Dolby Customer, which is a large content web portal integrated with their company's sales backend. The portal is accompanied with static HTML and standalone PDFs for offline consumption.
+
+On the back-end, they use GitLab repositories to store and collaborate on DITA and Markdown. They also utilize GitLab CI publishing pipelines that run DITA-OT in Docker containers to automate the content publishing process. Git-based process facilitates the collaboration with subject matter experts (SMEs) and helps introduce the docs-as-code approach to this collaboration.
+
+To measure the effectiveness of their content, they also implemented analytics to understand how customers interact with the content, and to drive development and UX decisions.
+
+## Outline of our 40 min. talk
  
 * 5min Daniel - Intro, who we are, what we do
 Who is our customer, how they consume stuff
