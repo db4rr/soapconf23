@@ -1,10 +1,14 @@
-# Keeping the plates spinning
-## ContentOps at Dolby
+![](assets/title.svg)
 
 Note:
 No text in this slide.
 New slides start after three empty lines.
 Notes are only visible in speaker mode, press "s" to access it. 
+
+
+
+![](assets/bing-plate-spinning.jpg)
+
 
 
 
