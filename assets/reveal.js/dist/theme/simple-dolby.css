@@ -56,11 +56,12 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal::before {
   content: '';
   position: fixed;
-  bottom: 0;
-  width: 20vh;
-  height:20vh;
+  bottom: 10px;
+  left: 10px;
+  width: 100px;
+  height: 100px;
   background-image: url("https://soapconf.com/wp-content/uploads/2022/03/image-2.png");
-  background-size: 20vh;
+  background-size: 100px;
   background-repeat: no-repeat;
   background-position: bottom;
 }
