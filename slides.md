@@ -34,17 +34,19 @@ DANIEL
 
 
 
-#### DITA-OT publishing in Gitlab
+#### DITA-OT publishing in GitLab
 
 <pre class="mermaid">
 %%{init: {'theme': 'neutral' } }%%
 graph LR
-    oxygen(oxygen XML editor) --> XML & MD
-    subgraph gitlab
+    oxygen(Writer: Oxygen XML editor) --> XML & MD
+    vscode(Engineer: VS Code editor) --> MD
+
+    subgraph GitLab
         XML("DITA XML files") --> DITA("DITA-OT docker")
         MD("Markdown files") --> DITA
     end
-    DITA --> PDF & HTML & DBCU[Dolby Customer XML]
+    DITA --> PDF & HTML & DBCU[Dolby Customer]
 </pre>
 Note:
 MARTA
@@ -52,7 +54,23 @@ MARTA
 
 
 
-#### Slingshots + PaaS
+#### Slingshots + Publishing-as-a-Service
+
+<pre class="mermaid">
+%%{init: {'theme': 'neutral' } }%%
+graph LR
+    oxygen(Writer: Oxygen XML editor) --> XML & MD
+    vscode(Engineer: VS Code editor) --> MD & PaaS
+
+    subgraph GitLab
+        XML("DITA XML files") --> DITA("DITA-OT docker")
+        MD("Markdown files") --> DITA
+        PaaS("PaaS - Markdown files") --> DITA
+
+    end
+    DITA --> PDF & HTML & DBCU[Dolby Customer]
+    DITA --> slingshot(Slingshot - JFrog or GitLab)
+</pre>
 
 Note:
 MARTA
@@ -60,7 +78,14 @@ MARTA
 
 
 
-#### Collaboration / best practices
+#### The promise of Markdown + DITA
+
+* Collaborarion: expectations vs. reality
+* Markdown, the lesser evil (mind the flavours)
+* Everything we do in publishing must be tested for both source formats
+* Decisions for compatibility - examples: 
+    * MML as external files
+    * Mermaid graphics inline (you can catch Daniel on a coffee break)
 
 Note:
 MARTA
