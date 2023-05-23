@@ -89,11 +89,11 @@ MARTA
 ### The promise of Markdown + DITA
 
 * Collaborarion: expectations vs. reality
-* Markdown, the lesser evil (mind the flavours)
-* Everything we do in publishing must be tested for both source formats
+* Markdown, the lesser evil (*mind the flavours*)
+* Testing all new goodies for both source formats
 * Decisions for compatibility - examples: 
-    * MML as external files
-    * Mermaid graphics inline (you can catch Daniel on a coffee break)
+    * Equations: MML as external files
+    * Diagrams: Mermaid (*ask Daniel on a coffee break*)
 
 Note:
 MARTA
