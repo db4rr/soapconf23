@@ -46,6 +46,9 @@ graph LR
     end
     DITA --> PDF & HTML & DBCU[Dolby Customer XML]
 </pre>
+<script>
+      mermaid.initialize(config);
+</script>
 
 Note:
 MARTA
