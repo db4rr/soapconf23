@@ -1,9 +1,14 @@
-# I am a slide
+# Keeping the plates spinning
+## ContentOps at Dolby
 
 Note:
 No text in this slide.
 New slides start after three empty lines.
 Notes are only visible in speaker mode, press "s" to access it. 
+
+
+
+![](https://cataas.com/cat/cute?width=1000)
 
 
 
