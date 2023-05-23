@@ -18,7 +18,7 @@ Notes are only visible in speaker mode, press "s" to access it.
 
 
 
-<iframe src="https://customer.dolby.com"></iframe>
+<iframe src="https://customer.dolby.com" class="scaled-iframe"></iframe>
 
 Note:
 DANIEL
