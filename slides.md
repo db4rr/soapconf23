@@ -18,7 +18,7 @@ Notes are only visible in speaker mode, press "s" to access it.
 
 
 
-#### Who is our customer
+## Who is our customer
 
 Note:
 DANIEL
@@ -26,7 +26,7 @@ DANIEL
 
 
 
-#### Output types (with SCN)
+## Output types (with SCN)
 
 Note:
 DANIEL
@@ -34,7 +34,7 @@ DANIEL
 
 
 
-#### DITA-OT publishing in GitLab
+## DITA-OT publishing in GitLab
 
 <pre class="mermaid">
 %%{init: {'theme': 'neutral' } }%%
@@ -55,7 +55,7 @@ MARTA
 
 
 
-#### Slingshots + Publishing-as-a-Service
+## Slingshots + Publishing-as-a-Service
 
 <pre class="mermaid">
 %%{init: {'theme': 'neutral' } }%%
@@ -79,7 +79,7 @@ MARTA
 
 
 
-#### The promise of Markdown + DITA
+## The promise of Markdown + DITA
 
 * Collaborarion: expectations vs. reality
 * Markdown, the lesser evil (mind the flavours)
@@ -95,7 +95,7 @@ THIS SHOULD BE THE PPT HALF POINT
 
 
 
-#### Data analytics intro
+## Data analytics intro
 
 Note:
 DANIEL
@@ -103,7 +103,7 @@ DANIEL
 
 
 
-#### Data Analytics infrastructure
+## Data Analytics infrastructure
 
 <pre class="mermaid">
 %%{init: {'theme': 'neutral' } }%%
@@ -125,7 +125,7 @@ JAKUB
 
 
 
-#### Pipeline
+## Pipeline
 
 Note:
 JAKUB
@@ -133,7 +133,7 @@ JAKUB
 
 
 
-#### Analytics presentation (visualization)
+## Analytics presentation (visualization)
 
 Note:
 JAKUB
@@ -141,7 +141,7 @@ JAKUB
 
 
 
-#### Wrapping-up: things we learned (analytics)
+## Wrapping-up: things we learned (analytics)
 
 Note:
 DANIEL
@@ -149,7 +149,7 @@ DANIEL
 
 
 
-#### Wrapping-up: things we learned (download pain)
+## Wrapping-up: things we learned (download pain)
 
 Note:
 DANIEL
@@ -157,7 +157,7 @@ DANIEL
 
 
 
-#### Wrapping-up: summary
+## Wrapping-up: summary
 
 Lesson learned: better to start from questions than from data sources
 Lesson learned: customers still need offline. we need to keep an ear to the ground.
