@@ -148,6 +148,14 @@ JAKUB
 
 
 
+<img src="assets/cat-hats.png" alt="Dolby customers" style="max-height: 60vh">
+
+Note:
+DANIEL - Summary: we wear many hats, we learn and experiment a lot
+
+
+
+
 ### Wrapping-up: things we learned (analytics)
 
 Note:
