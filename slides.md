@@ -1,7 +1,6 @@
 ![](assets/title.svg)
 
 Note:
-No text in this slide.
 New slides start after three empty lines.
 Notes are only visible in speaker mode, press "s" to access it. 
 
@@ -18,18 +17,26 @@ Notes are only visible in speaker mode, press "s" to access it.
 
 
 
-<iframe src="https://customer.dolby.com" class="scaled-iframe"></iframe>
+<img src="assets/DBCU.png" alt="Frontpage of Dolby Customer" style="max-height: 60vh">
 
 Note:
-DANIEL
+DANIEL - we enable content operations allowing teams to publish content in our Dolby Customer portal
 
 
 
 
-### Output types (with SCN)
+<img src="assets/customers.png" alt="Dolby customers" style="max-height: 60vh">
 
 Note:
-DANIEL
+DANIEL - our customers are partners who license our technologies to integrate them into their products, or customers who use our software tools (like Atmos Renderer). Both technologies and products need documentation.
+
+
+
+
+<img src="assets/outputs.png" alt="Dolby documentation outputs" style="max-height: 60vh">
+
+Note:
+DANIEL - we provide online and offline outputs: Dolby Customer pages, offline static HTML pages, and PDF
 
 
 
