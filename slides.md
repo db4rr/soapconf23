@@ -8,11 +8,13 @@ Notes are only visible in speaker mode, press "s" to access it.
 
 
 ![](assets/bing-plate-spinning.jpg)
-
+> Courtesy of MS Bing Image Creator 
 
 
 
 ![](https://cataas.com/cat/cute?t=square?width=800)
+> Courtesy of Cat-as-a-Service
+
 
 
 
