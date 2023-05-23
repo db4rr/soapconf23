@@ -8,7 +8,7 @@ Notes are only visible in speaker mode, press "s" to access it.
 
 
 
-<img src="https://cataas.com/cat/cute?t=square?width=800" alt="Cute Cat, Image courtesy of Cat as a Service" style="max-height: 60vh">
+<img src="assets/kitty.png" alt="Cute kitten on the Fez Medina" style="max-height: 60vh">
 
 
 
