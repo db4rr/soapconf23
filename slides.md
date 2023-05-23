@@ -57,7 +57,7 @@ graph LR
 </pre>
 
 Note:
-MARTA
+MARTA - we moved from closed CMS to corporate GitLab to allow better collaboration with Engineering teams
 
 
 
@@ -81,7 +81,7 @@ graph LR
 </pre>
 
 Note:
-MARTA
+MARTA - moving to GitLab allowed us to add more collaboration methods: PaaS repos and various Slingshots
 
 
 
@@ -92,7 +92,7 @@ MARTA
 * Markdown, the lesser evil (*mind the flavours*)
 * Testing all new goodies for both source formats
 * Decisions for compatibility - examples: 
-    * Equations: MML as external files
+    * Equations: MathML as external files
     * Diagrams: Mermaid (*ask Daniel on a coffee break*)
 
 Note:
