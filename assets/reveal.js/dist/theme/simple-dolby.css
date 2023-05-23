@@ -53,6 +53,18 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   color: var(--r-main-color);
 }
 
+.reveal::before {
+  content: '';
+  position: fixed;
+  bottom: 0;
+  width: 20vh;
+  height:20vh;
+  background-image: url("https://soapconf.com/wp-content/uploads/2022/03/image-2.png");
+  background-size: 20vh;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
 .reveal ::selection {
   color: var(--r-selection-color);
   background: var(--r-selection-background-color);
