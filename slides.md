@@ -8,7 +8,7 @@ Notes are only visible in speaker mode, press "s" to access it.
 
 
 
-![](https://cataas.com/cat/cute?width=1000)
+![](https://cataas.com/cat/cute?width=800?height=800)
 
 
 
