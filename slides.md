@@ -148,7 +148,7 @@ JAKUB
 
 
 
-<img src="assets/cat-hats.png" alt="Dolby customers" style="max-height: 60vh">
+<img src="assets/cat-hats.png" alt="PubEng wears many hats" style="max-height: 60vh">
 
 Note:
 DANIEL - Summary: we wear many hats, we learn and experiment a lot
@@ -156,7 +156,15 @@ DANIEL - Summary: we wear many hats, we learn and experiment a lot
 
 
 
-### Wrapping-up: things we learned (analytics)
+<img src="assets/data.png" alt="Page views and download data" style="max-height: 60vh">
+
+Note:
+DANIEL - capturing this data allows us to check our assumptions re: how customers use our materials
+
+
+
+
+<img src="assets/customer-pain.png" alt="Customer pain" style="max-height: 60vh">
 
 Note:
 DANIEL
@@ -164,18 +172,9 @@ DANIEL
 
 
 
-### Wrapping-up: things we learned (download pain)
+### Data guides ContentOps <!-- .element: class="fragment" -->
+
+### Start from questions, not data sources <!-- .element: class="fragment" -->
 
 Note:
-DANIEL
-
-
-
-
-### Wrapping-up: summary
-
-Lesson learned: better to start from questions than from data sources
-Lesson learned: customers still need offline. we need to keep an ear to the ground.
-
-Note:
-DANIEL
+DANIEL -- We'll be happy to take your questions, and feel free to come to us during breaks
