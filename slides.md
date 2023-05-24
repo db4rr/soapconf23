@@ -96,7 +96,7 @@ MARTA - moving to GitLab allowed us to add more collaboration methods: PaaS repo
     * Diagrams: Mermaid (*ask Daniel on a coffee break*)
 
 Note:
-MARTA
+MARTA - Tech Comms collaborate with Eng, but how do we know if our customers and partners are happy with the outcome...?
 THIS SHOULD BE THE PPT HALF POINT
 
 
