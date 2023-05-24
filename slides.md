@@ -9,10 +9,24 @@ Notes are only visible in speaker mode, press "s" to access it.
 
 <img src="assets/kitty.png" alt="Cute kitten on the Fez Medina" style="max-height: 60vh">
 
+Note:
+DANIEL - it's important for us to set the right tone for this presentation 
+
+
+
+
+<img src="assets/cat-terminal.png" alt="Cat looking at code" style="max-height: 60vh">
+
+Note:
+DANIEL - because we are going to be talking about technical stuff
+
 
 
 
 <img src="assets/cat-plate-spinning.png" alt="Cat looking at multiple spinning plates" style="max-height: 60vh">
+
+Note:
+DANIEL - running the technical part of content operations at Dolby is keeping multiple spinning plates from falling
 
 
 
