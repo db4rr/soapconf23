@@ -102,12 +102,13 @@ MARTA - moving to GitLab allowed us to add more collaboration methods: PaaS repo
 
 ### The promise of Markdown + DITA
 
-* Collaboration: expectations vs. reality <!-- .element: class="fragment" -->
-* Markdown, the lesser evil (*mind the flavours*) <!-- .element: class="fragment" -->
+* Collaboration: expectations vs. reality <!-- .element: class="fragment" data-fragment-index="1" -->
+* Markdown, the lesser evil (*mind the flavours*<!-- .element: class="fragment" data-fragment-index="2" -->)  <!-- .element: class="fragment" data-fragment-index="2" -->
 * Testing all new goodies for both source formats <!-- .element: class="fragment" -->
-* Decisions for compatibility - examples: <!-- .element: class="fragment" -->
+* Decisions for compatibility <!-- .element: class="fragment" -->
     * Equations: MathML as external files <!-- .element: class="fragment" -->
-    * Diagrams: Mermaid (*ask Daniel on a coffee break*) <!-- .element: class="fragment" -->
+    * Diagrams: Mermaid <!-- .element: class="fragment" -->  
+      (ask Daniel on a coffee break)
 
 Note:
 MARTA - Tech Comms collaborate with Eng, but how do we know if our customers and partners are happy with the outcome...?
@@ -207,8 +208,8 @@ JAKUB - And end up with something way more enjoyable to the eye
 * Which pages are visited the most frequently? <!-- .element: class="fragment" -->
 * What's more popular between online docs and downloading a deliverable? <!-- .element: class="fragment" -->
 * Are customers using search to get into my deliverable? <!-- .element: class="fragment" -->
-* How long does it take for the first download from a customer? <!-- .element: class="fragment" -->
-  ..and more! <!-- .element: class="fragment" -->
+* How long does it take for the first download from a customer? <!-- .element: class="fragment" -->  
+  ...and more! <!-- .element: class="fragment" -->
 
 Note:
 JAKUB - From our Tech Writers we get the most interest around navigation flows and documentation pages popularity.
