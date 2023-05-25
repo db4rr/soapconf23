@@ -102,7 +102,7 @@ MARTA - moving to GitLab allowed us to add more collaboration methods: PaaS repo
 
 ### The promise of Markdown + DITA
 
-* Collaborarion: expectations vs. reality
+* Collaboration: expectations vs. reality
 * Markdown, the lesser evil (*mind the flavours*)
 * Testing all new goodies for both source formats
 * Decisions for compatibility - examples: 
