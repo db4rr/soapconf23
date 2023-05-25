@@ -162,10 +162,38 @@ JAKUB
 
 
 
-### Analytics presentation (visualization)
+### So why all that effort?
 
 Note:
 JAKUB
+
+
+
+
+<img src="assets/raw_data.png" alt="Google Analytics raw output" style="max-height: 60vh">
+
+Note:
+JAKUB - 
+
+
+
+
+<img src="assets/report_screenshot.png" alt="The final product of our efforts" style="max-height: 60vh">
+
+Note:
+JAKUB -
+
+
+
+
+### What sort of questions do we actually answer?
+
+* How are people accessing my documentation?
+* Which pages are visited the most frequently?
+* What's more popular between online docs and downloading a deliverable?
+
+Note:
+JAKUB - From our Tech Writers we get the most interest around navigation flows and documentation pages popularity.
 
 
 
