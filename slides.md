@@ -136,7 +136,7 @@ DANIEL - We use Google Analytics/Tag Manager, Hotjar and custom reports from our
 
 <pre class="mermaid">
 %%{init: {'theme': 'neutral' } }%%
-flowchart LR
+graph LR
     subgraph Data Collection
         IGX("Ingeniux CMS") -->|Nightly Build| AWS("MySQL database")
         SF("SalesForce") -->|Nightly Build| AWS
