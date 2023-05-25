@@ -131,6 +131,15 @@ THIS SHOULD BE THE PPT HALF POINT
 
 
 
+<!-- .slide: data-background="#000000" -->
+### Ok, but what happens after publishing?
+
+Note:
+MARTA >> DANIEL
+
+
+
+
 <img src="assets/business-data.png" alt="Business making data-based decisions" style="max-height: 60vh">
 
 Note:
@@ -187,7 +196,6 @@ JAKUB
 
 
 
-<!-- .slide: data-background="#000000" -->
 ### So why all that effort?
 
 Note:
