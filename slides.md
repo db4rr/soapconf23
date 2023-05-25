@@ -102,12 +102,12 @@ MARTA - moving to GitLab allowed us to add more collaboration methods: PaaS repo
 
 ### The promise of Markdown + DITA
 
-* Collaboration: expectations vs. reality
-* Markdown, the lesser evil (*mind the flavours*)
-* Testing all new goodies for both source formats
-* Decisions for compatibility - examples: 
-    * Equations: MathML as external files
-    * Diagrams: Mermaid (*ask Daniel on a coffee break*)
+* Collaboration: expectations vs. reality <!-- .element: class="fragment" -->
+* Markdown, the lesser evil (*mind the flavours*) <!-- .element: class="fragment" -->
+* Testing all new goodies for both source formats <!-- .element: class="fragment" -->
+* Decisions for compatibility - examples: <!-- .element: class="fragment" -->
+    * Equations: MathML as external files <!-- .element: class="fragment" -->
+    * Diagrams: Mermaid (*ask Daniel on a coffee break*) <!-- .element: class="fragment" -->
 
 Note:
 MARTA - Tech Comms collaborate with Eng, but how do we know if our customers and partners are happy with the outcome...?
@@ -156,12 +156,12 @@ JAKUB - We're also using Hotjar as an extra tool, but this data isn't ingested i
 
 ### Pipeline
 
-* Anonymous online activity
-* Downloads and login actions
-* Notifications that are sent out to customers
-* Ecosystem health
-* And more!
-* **Goal:** get an accurate overview of what's happening to a released deliverable
+* Anonymous online activity <!-- .element: class="fragment" -->
+* Downloads and login actions <!-- .element: class="fragment" -->
+* Notifications that are sent out to customers <!-- .element: class="fragment" -->
+* Ecosystem health <!-- .element: class="fragment" -->
+* And more! <!-- .element: class="fragment" -->
+* **Goal:** get an accurate overview of what's happening to a released deliverable <!-- .element: class="fragment" -->
 
 Note:
 JAKUB
@@ -203,12 +203,12 @@ JAKUB - And end up with something way more enjoyable to the eye
 
 ### What sort of questions do we actually answer?
 
-* How are people accessing my documentation?
-* Which pages are visited the most frequently?
-* What's more popular between online docs and downloading a deliverable?
-* Are customers using search to get into my deliverable?
-* How long does it take for the first download from a customer?
-* And more!
+* How are people accessing my documentation? <!-- .element: class="fragment" -->
+* Which pages are visited the most frequently? <!-- .element: class="fragment" -->
+* What's more popular between online docs and downloading a deliverable? <!-- .element: class="fragment" -->
+* Are customers using search to get into my deliverable? <!-- .element: class="fragment" -->
+* How long does it take for the first download from a customer? <!-- .element: class="fragment" -->
+  ..and more! <!-- .element: class="fragment" -->
 
 Note:
 JAKUB - From our Tech Writers we get the most interest around navigation flows and documentation pages popularity.
