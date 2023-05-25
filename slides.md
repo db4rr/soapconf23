@@ -149,12 +149,19 @@ flowchart LR
 </pre>
 
 Note:
-JAKUB
+JAKUB - We're also using Hotjar as an extra tool, but this data isn't ingested in the pipeline and Power BI
 
 
 
 
 ### Pipeline
+
+* Anonymous online activity
+* Downloads and login actions
+* Notifications that are sent out to customers
+* Ecosystem health
+* And more!
+* **Goal:** get an accurate overview of what's happening to a released deliverable
 
 Note:
 JAKUB
@@ -173,7 +180,15 @@ JAKUB
 <img src="assets/raw_data.png" alt="Google Analytics raw output" style="max-height: 60vh">
 
 Note:
-JAKUB - 
+JAKUB - From every source, we start with this ugly data
+
+
+
+
+<img src="assets/data_model.png" alt="Modelling magic">
+
+Note:
+JAKUB - We do some modelling magic
 
 
 
@@ -181,7 +196,7 @@ JAKUB -
 <img src="assets/report_screenshot.png" alt="The final product of our efforts" style="max-height: 60vh">
 
 Note:
-JAKUB -
+JAKUB - And end up with something way more enjoyable to the eye
 
 
 
@@ -191,9 +206,13 @@ JAKUB -
 * How are people accessing my documentation?
 * Which pages are visited the most frequently?
 * What's more popular between online docs and downloading a deliverable?
+* Are customers using search to get into my deliverable?
+* How long does it take for the first download from a customer?
+* And more!
 
 Note:
 JAKUB - From our Tech Writers we get the most interest around navigation flows and documentation pages popularity.
+We obviously cannot answer absolutely everything, but we're trying our best!
 
 
 
