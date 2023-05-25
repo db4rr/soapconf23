@@ -169,7 +169,8 @@ JAKUB - We're also using Hotjar as an extra tool, but this data isn't ingested i
 * <!-- .element: class="fragment" -->Notifications that are sent out to customers
 * <!-- .element: class="fragment" -->Platform performance
 * <!-- .element: class="fragment" -->...and more!
-* <!-- .element: class="fragment" -->**Goal:** get an accurate overview of what's happening to a released deliverable
+* <!-- .element: class="fragment" -->  
+  **Goal:** get an accurate overview of what's happening to a released deliverable
 
 Note:
 JAKUB
@@ -250,7 +251,7 @@ This triggered an architecture change that brought 3x increase in CMS performanc
 
 
 
-
+<!-- .slide: data-background="#000000" -->
 ## Data guides ContentOps <!-- .element: class="fragment" -->
 
 ### Start from questions, not data sources <!-- .element: class="fragment" -->
