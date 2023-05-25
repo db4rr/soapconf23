@@ -107,10 +107,11 @@ MARTA - moving to GitLab allowed us to add more collaboration methods: PaaS repo
 ### The promise of Markdown + DITA
 
 * <!-- .element: class="fragment" -->Collaboration: expectations vs. reality 
-* <!-- .element: class="fragment" -->Markdown, the lesser evil (*mind the flavours*)
-* Testing all new goodies for both source formats <!-- .element: class="fragment" -->
-* Decisions for compatibility <!-- .element: class="fragment" -->
-    * Equations: MathML as external files <!-- .element: class="fragment" -->
+* <!-- .element: class="fragment" -->Markdown, the lesser evil  
+  (*mind the flavours*)
+* <!-- .element: class="fragment" -->Testing all new goodies for both source formats
+* <!-- .element: class="fragment" -->Decisions for compatibility
+    * <!-- .element: class="fragment" -->Equations: MathML as external files
     * <!-- .element: class="fragment" -->Diagrams: Mermaid  
       (*ask Daniel on a coffee break*)
 
