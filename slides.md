@@ -113,6 +113,14 @@ MARTA - moving to GitLab allowed us to add more collaboration methods: PaaS repo
 
 
 
+<img src="assets/gitlab-pipelines-scn.png" alt="Gitlab pipeline screenshots" style="max-height: 60vh">
+
+Note:
+MARTA
+
+
+
+
 ### The promise of Markdown + DITA
 
 * <!-- .element: class="fragment" -->Collaboration: expectations vs. reality 
